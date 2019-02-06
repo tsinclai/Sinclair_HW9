@@ -13,9 +13,9 @@ using namespace std;
 
 int main () {
 
-double numberOfCustomers;
-double purchaseEnergyDrink;
-double preferCitrusDrinks;
+double numberOfCustomers; //number of customers surveyed
+double purchaseEnergyDrink; // number of surveyed customers who purchase energy Drinks
+double preferCitrusDrinks; // number of energy drinkers who prefer citrus-flavored drinks
 
 
  cout << "Enter Number of customers surveyed ";
